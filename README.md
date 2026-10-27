@@ -86,4 +86,4 @@ Update wardrobe, season, context, pose or expression sections on request; bump t
 
 ---
 
-نسخه‌ی ۲٫۰ · از مجموعه‌ی **Strategy Family**، ساخته‌شده برای دوره‌ی «هوش مصنوعی برای کسب‌وکار» · مجوز: [MIT](./LICENSE) · تاریخچه‌ی تغییرات: [CHANGELOG](./CHANGELOG.md)
+نسخه‌ی ۲٫۰ · از مجموعه‌ی **Strategy Family**· مجوز: [MIT](./LICENSE) · تاریخچه‌ی تغییرات: [CHANGELOG](./CHANGELOG.md)
